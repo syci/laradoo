@@ -1,5 +1,12 @@
 #   ChangeLog
 
+## V3.0.0
+
+#### Compatibility upgrade
+
+Added support for Laravel 10+.  
+Added support for PHP 8.2+.
+
 ## V2.0.0
 
 #### Compatibility upgrade
