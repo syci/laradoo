@@ -1,5 +1,6 @@
 {
     "name": "edujugon/laradoo",
+    "version": "4.0.1",
     "description": "Odoo ERP API for Laravel",
     "keywords": ["odoo","laravel","erp","package"],
     "license": "MIT",
